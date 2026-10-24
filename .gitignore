@@ -1,0 +1,25 @@
+# Dependensi
+node_modules/
+
+# Hasil build
+dist/
+freebuff-sites-build/
+
+# Artefak lingkungan Freebuff (penanda proyek lokal)
+.freebuff/
+
+# Log
+*.log
+
+# Lingkungan & kredensial
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Sistem operasi & editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
