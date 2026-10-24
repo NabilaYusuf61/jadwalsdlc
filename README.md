@@ -25,8 +25,9 @@ Tampilan Aplikasi
 ![Dashboard JadwalSDLC](Dashboard_JadwalSDLC.png)
 
 2. Gantt Chart
+   
 Berikut adalah tampilan Gantt Chart JadwalSDLC yang dibagi menjadi tiga screenshot agar seluruh jadwal proyek dapat terlihat dengan jelas.
-![Gantt Chart 1 JadwalSDLC](Gant_Chart_1_JadwalSDLC.png)
+![Gantt Chart 1 JadwalSDLC](Gantt_Chart_1_JadwalSDLC.png)
 ![Gantt Chart 2 JadwalSDLC](Gantt_Chart_2_JadwalSDLC.png)
 ![Gantt Chart 3 JadwalSDLC](Gantt_Chart_3_JadwalSDLC.png)
 
